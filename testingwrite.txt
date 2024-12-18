@@ -1,0 +1,17 @@
+
+
+123	csf	erfr	sfr	22.2	12	10
+234	rfw	wfr	sfr	33.3	20	22
+45	egrtg	ee	egt	44.4	12	1
+333	  rrr	  yyy	  yyy	  22	  12	  11
+456	  egt	  egt	  efv	  55	  45	  43
+123345	  rgtrtbyhb	  etgyhybrb	  rhyntfgtt	  555	  555	  555
+3453474	    ejagbuyrg	    ggrefrkg	    eghuirg	    38	    23	    2
+43543	     regrth	     egret	     rtgrts	     12	     12	     12
+245345	     ergtr	     rwbyrt	     egrthr	     121	     2	     12
+10000	     milk 1l	     dairy	     box	     7.00	     30	     5
+20000	     beef 200g	     freezer	     pack	     20.00	     10	     7
+10000	milk 1l	dairy	box	7.0	30	5
+20000	beef 200g	freezer	pack	20.0	10	5
+10000     	milk 1l   	dairy     	box       	7.0       	30        	5         
+20000     	beef 200g 	freezer   	pack      	20.0      	10        	5         

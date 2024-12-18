@@ -1,0 +1,5 @@
+freezer
+fruits
+vegetables
+dairy
+seafood

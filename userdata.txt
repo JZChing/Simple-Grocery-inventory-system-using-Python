@@ -1,0 +1,4 @@
+Jia Zhong,idontknow,admin
+Bob,123456,inventory-checker
+Sam,666666,purchaser
+Leon,901234,inventory-checker

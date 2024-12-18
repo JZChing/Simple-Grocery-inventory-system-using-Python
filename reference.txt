@@ -1,0 +1,8 @@
+pieces
+freezer
+dairy
+admin
+inventory-checker
+purchaser
+pack
+box

@@ -1,0 +1,41 @@
+11000,Milk 1L,Dairy,box,7.0,50,10
+20000,Beef 200g,freezer,Pack,20.0,20,7
+21000,Chicken thigh,Freezer,Pieces,10.0,15,15
+30000,Apple,fruits,pieces,2.0,40,30
+32000,Orange,Fruits,pack,2.5,50,30
+12334,Banana,Fruits,Comb,5.0,20,15
+12000,Broccoli,Vegetables,pieces,2.5,30,10
+13000,Yogurt,Dairy,pack,5.5,40,10
+14000,Salmon fillet,Seafood,pieces,15.0,20,5
+15000,Carrot,Vegetables,pieces,1.0,70,40
+16000,Cheese 250g,Dairy,pack,7.0,30,15
+17000,Pork chops,Freezer,pieces,20.0,15,5
+18000,Pear,fruits,pieces,2.0,50,30
+19000,Spinach,vegetables,pack,2.0,30,40
+22000,Eggs,Dairy,dozen,10.0,30,40
+23000,Shrimp 500g,seafood,pack,18.0,20,30
+24000,Mango,fruits,pieces,4.0,30,20
+25000,Cauliflower,vegetables,pieces,3.5,40,30
+26000,Greek Yogurt,dairy,pack,7.0,30,20
+27000,Strawberry,fruits,pieces,4.0,50,30
+28000,Cabbage,vegetables,pieces,5.0,20,10
+29000,Almond Milk 1L,Dairy,box,6.0,25,5
+31000,Chicken Breast,Freezer,pieces,10.0,20,10
+33000,Watermelon,fruits,pieces,10.0,20,10
+34000,Bell pepper,vegetables,pieces,6.0,20,10
+35000,Cottage cheese,Dairy,pack,6.0,20,10
+36000,Fish fillet,seafood,pieces,12.0,15,5
+37000,Kiwi,fruits,pieces,2.0,50,30
+38000,Whipped cream 100g,Dairy,pack,3.5,15,5
+39000,Zucchini,vegetables,pieces,2.0,30,10
+40000,Cucumber,vegetables,pieces,2.0,50,30
+41000,Pineapple,fruits,pieces,5.0,20,10
+42000,Potato,vegetables,pieces,1.5,40,25
+43000,Grapes,fruits,bunch,4.0,50,30
+44000,Lamb chops,freezer,pieces,15.0,20,10
+45000,Oat milk 1L,Dairy,box,4.0,20,10
+46000,Celery,vegetables,pieces,2.0,25,20
+47000,Dragon fruits,fruits,pieces,6.0,20,10
+48000,Green pepper,vegetables,pieces,2.0,40,20
+49000,Ice cream,Freezer,pack,3.0,40,40
+51000,Pear,fruits,pieces,4.0,30,20
